@@ -20,6 +20,6 @@ fn main() {
         ethereum=eth,
         solana=sol
     );
-    println!("Look I've made this special {message}!", message=message);
+    println!("Look I've made this special message: {message}!", message=message);
  
 }
