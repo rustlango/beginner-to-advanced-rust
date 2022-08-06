@@ -13,6 +13,7 @@ fn main() {
         solana=sol
     );
     // format macro function is just to return a string
+    // can use it to wrap separate variables or value sin one string
     let message = format!(        
         "Kwargs: {solana} {ethereum} {bitcoin}",
         bitcoin=btc,
