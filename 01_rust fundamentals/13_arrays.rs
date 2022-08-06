@@ -16,7 +16,15 @@ fn main() {
     println!("First element of the array: {}", cheat_code[0]);
  
     println!("Array(length: {}): {:?}", zeros.len() ,zeros);
- 
+    // [1..3] thi snotation means that the second element of the array
+    // will be included and the fourth element will be excluded
+    // so it wwill print 65 and 9,
+    // to include the upper limit of the slice  then simply put an = sign
+    // next to the array
+
+    // do not focus on the ampersand & - just focus on the syntax and 
+    // logic behind the code. Understand the nature of the data types 
+    // being returned 
     let slice = &cheat_code[1..3];
     println!("Slice of cheat_code: {:?} {}", slice, slice.len());
 }
