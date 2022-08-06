@@ -66,3 +66,71 @@ fn main() {
     println!("{}, {}, {}, {}, {}", a_min, b_min, c_min, d_min, e_min);
     println!("{}, {}, {}, {}, {}", a_max, b_max, c_max, d_max, e_max);
  }
+
+//  // lecture commit notes and tips
+//   (HEAD -> main)
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 14:39:10 2022 +0200
+
+//     git ignore added
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 14:37:38 2022 +0200
+
+//     git ignor efile added to exclude all target directories
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 14:32:52 2022 +0200
+
+//     moved target directory to .ignore
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 14:25:47 2022 +0200
+
+//     brought all modules using the shortcut: use integers_mutable_immutable::*; works when there are a lot of modules in a library file
+
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 14:23:17 2022 +0200
+
+//     updated lecture notes
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 14:21:40 2022 +0200
+
+//     turned all functions into separte modules in an external rust file and imported all of them using the use keyowrd
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 13:51:49 2022 +0200
+
+//     seprated modules as external files to house all the seprate pieces of code - it is fine for now becuas ethe modules are not big
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 13:50:59 2022 +0200
+
+//     created external module dot rs files and then imported them using the use keyword
+
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 13:42:58 2022 +0200
+
+//     created external module dot rs files and then imported them using the use keyword
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 11:52:24 2022 +0200
+
+//     cargo and npm distinctions made
+
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 11:45:04 2022 +0200
+
+//     ran rust project using cargo
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 11:40:43 2022 +0200
+
+//     rust compiler hello_world progrm with newline characters. Use rusc to compile
+
+// Author: Alvo Rithm <alvorithmemail@gmail.com>
+// Date:   Sat Aug 6 11:34:37 2022 +0200
