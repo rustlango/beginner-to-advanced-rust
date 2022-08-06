@@ -1,0 +1,1 @@
+/home/alvorithm/Documents/diligence_work/fs_bchain/web3-plus-stuff/Rustlanging/moralis_rust_course/m_rust_course/01_rust\ fundamentals/hello_cargo/target/debug/hello_cargo: /home/alvorithm/Documents/diligence_work/fs_bchain/web3-plus-stuff/Rustlanging/moralis_rust_course/m_rust_course/01_rust\ fundamentals/hello_cargo/src/main.rs

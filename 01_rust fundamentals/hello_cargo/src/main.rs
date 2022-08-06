@@ -1,3 +1,7 @@
+fn main() {
+    println!("Hello, cargo!");
+}
+
 // Cargo
 
 // rust package management system
