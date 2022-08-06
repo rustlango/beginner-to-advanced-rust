@@ -15,6 +15,7 @@ fn main() {
     let v = 100478;
     // v is volume like  candletsick for pricing underlying asssetsor stocks
     // have tuple nested in another tuple
+    // combining the two tuples creates a ""candlestick tuple"
     let token = ("Solana", "SOL", (o, h, l, c, v));
  
     println!(
@@ -49,7 +50,8 @@ fn main() {
         token.0,
         token.2
     );
- 
+    // pretty printing :#? can be used to give technical information on 
+    // data structures
     println!(
         "{} ohlcv: {:#?}",
         token.0,
