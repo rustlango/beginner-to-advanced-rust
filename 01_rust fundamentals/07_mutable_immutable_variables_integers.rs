@@ -48,7 +48,7 @@ fn main() {
     println!("{}, {}, {}, {}, {}", a_min, b_min, c_min, d_min, e_min);
     println!("{}, {}, {}, {}, {}", a_max, b_max, c_max, d_max, e_max);
  }
-Signed integer min and max values:
+// Signed integer min and max values:
 
 fn main() {
     let a_min: i8 = std::i8::MIN;
